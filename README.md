@@ -30,3 +30,17 @@ The most significant factors affecting AAPL were shown to be the market risk-fre
 
 ### Sources
 YouTube Tutorial: https://www.youtube.com/watch?v=gN7JOFOO-eM&ab_channel=TechFin
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Additional Notes
+
+- While the methodology can be applied to other datasets, further validation is needed for real-world applications.
+- This project does not constitute financial advice.
+
+## Contact
+
+For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
+GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin)
