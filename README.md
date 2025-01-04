@@ -1,4 +1,4 @@
-# Python Applications in Finance
+# Stock Risk Model
 This repository is meant for finance-related discovery projects to learn more about how Python can be used in finance and explore topics I am curious about. I do not claim any of these projects as my own as they were completed by following a YouTube tutorial. They purely serve as a hands-on introduction to applying programming in finance.
 
 This repository contains the following projects:
