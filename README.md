@@ -5,7 +5,7 @@
 ### Sources
 YouTube Tutorial: https://www.youtube.com/watch?v=gN7JOFOO-eM&ab_channel=TechFin
 
-This repository contains the following projects:
+### Projects:
 1. Risk Factor Model Estimation of a Stock (AAPL)
 
 ## 1. Risk Factor Model Estimation
