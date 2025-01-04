@@ -1,5 +1,6 @@
 # Stock Risk Model
-This repository is meant for finance-related discovery projects to learn more about how Python can be used in finance and explore topics I am curious about. I do not claim any of these projects as my own as they were completed by following a YouTube tutorial. They purely serve as a hands-on introduction to applying programming in finance.
+
+*This personal project is meant for finance-related discovery projects to learn more about how Python can be used in finance and explore topics I am curious about. I do not claim any of these projects as my own as they were completed by following a YouTube tutorial. They purely serve as a hands-on introduction to applying programming in finance.*
 
 This repository contains the following projects:
 1. Risk Factor Model Estimation of a Stock (AAPL)
@@ -33,7 +34,7 @@ YouTube Tutorial: https://www.youtube.com/watch?v=gN7JOFOO-eM&ab_channel=TechFin
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Distributed under the GNU General Public License (GPL). See LICENSE for more information.
 
 ## Additional Notes
 
@@ -44,3 +45,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
 GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin)
+
+
+
+
