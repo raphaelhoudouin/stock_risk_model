@@ -2,6 +2,9 @@
 
 *This personal project is meant for finance-related discovery projects to learn more about how Python can be used in finance and explore topics I am curious about. I do not claim any of these projects as my own as they were completed by following a YouTube tutorial. They purely serve as a hands-on introduction to applying programming in finance.*
 
+### Sources
+YouTube Tutorial: https://www.youtube.com/watch?v=gN7JOFOO-eM&ab_channel=TechFin
+
 This repository contains the following projects:
 1. Risk Factor Model Estimation of a Stock (AAPL)
 
@@ -28,9 +31,6 @@ Finally, an OLS regression model was applied to the AAPL data to evaluate which 
 
 ### Findings
 The most significant factors affecting AAPL were shown to be the market risk-free rate as well as the value factor (HML).
-
-### Sources
-YouTube Tutorial: https://www.youtube.com/watch?v=gN7JOFOO-eM&ab_channel=TechFin
 
 ## License
 
