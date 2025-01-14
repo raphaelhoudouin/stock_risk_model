@@ -3,7 +3,7 @@
 *This personal project is meant for finance-related discovery projects to learn more about how Python can be used in finance and explore topics I am curious about. I do not claim any of these projects as my own as they were completed by following a YouTube tutorial. They purely serve as a hands-on introduction to applying programming in finance.*
 
 ### Sources
-YouTube Tutorial: https://www.youtube.com/watch?v=gN7JOFOO-eM&ab_channel=TechFin
+YouTube Tutorial: https://www.youtube.com/watch?v=gN7JOFOO-eM&ab_channel=TechFin.
 
 ### Projects:
 1. Risk Factor Model Estimation of a Stock (AAPL)
@@ -36,10 +36,6 @@ Distributed under the GNU General Public License (GPL). See LICENSE for more inf
 - This project does not constitute financial advice.
 
 ## Contact
-
-For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
-GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin)
-
-
-
+For any questions or feedback, please contact the project maintainer: **raphaelhoudouin**.  
+GitHub: [raphaelhoudouin](https://github.com/raphaelhoudouin).
 
